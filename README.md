@@ -1,13 +1,12 @@
+# بوت التكتات لديسكورد
 
-# Ticket Bot for Discord
+هذا بوت بسيط لإدارة التكتات على ديسكورد باستخدام مكتبة discord.js.
 
-This is a basic ticket system bot for Discord using discord.js.
+## كيفية الإعداد
 
-## How to Set Up
-
-1. Clone the repository.
-2. Install the necessary libraries by running `npm install`.
-3. Update the `config.json` file with your support role ID and ticket category ID.
-4. Replace `YOUR_BOT_TOKEN` in `index.js` with your bot token.
-5. Run the bot with `node index.js`.
-6. Enjoy your ticket system!
+1. قم بنسخ المستودع.
+2. قم بتثبيت المكتبات اللازمة عبر الأمر `npm install`.
+3. قم بتعديل ملف `config.json` بإضافة ID الرتبة الخاصة بالدعم وID الكاتيجوري الخاص بالتكتات.
+4. قم بتغيير `YOUR_BOT_TOKEN` في `index.js` إلى توكن البوت الخاص بك.
+5. قم بتشغيل البوت باستخدام الأمر `node index.js`.
+6. استمتع بنظام التكتات!
