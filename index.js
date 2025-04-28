@@ -37,4 +37,4 @@ client.on('message', message => {
     }
 });
 
-client.login('YOUR_BOT_TOKEN');
+client.login('MTM2NTUxNDM4MjUyNzk1OTExMA.G4bNjP.Cv_MSwl_9j5M525Xvwnc_c7_98wkD20__U4wdQ');
